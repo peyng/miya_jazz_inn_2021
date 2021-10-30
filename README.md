@@ -104,6 +104,7 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2021年10月30日_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<a href="20211030_006.jpg" data-lightbox="abc"><img src="20211030_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_001.jpg" data-lightbox="abc"><img src="20211030_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_002.jpg" data-lightbox="abc"><img src="20211030_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_003.jpg" data-lightbox="abc"><img src="20211030_003.jpg" alt="サンプル画像" width="900" /></a>
