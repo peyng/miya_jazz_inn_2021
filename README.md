@@ -108,7 +108,8 @@ a.p:hover span {
 <a href="20211030_002.jpg" data-lightbox="abc"><img src="20211030_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_003.jpg" data-lightbox="abc"><img src="20211030_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_004.jpg" data-lightbox="abc"><img src="20211030_004.jpg" alt="サンプル画像" width="900" /></a>
-
+<p>パンフレット</p>
+<a href="20211030_005.jpg" data-lightbox="abc"><img src="20211030_005.jpg" alt="サンプル画像" width="900" /></a>
 
        
        
@@ -131,4 +132,4 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="grey">Copyright 2021/10/30 S.Hada</span>
+	<span class="yellow">Copyright 2021/10/30 S.Hada</span>
