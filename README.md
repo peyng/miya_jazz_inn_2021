@@ -107,7 +107,10 @@ a.p:hover span {
 <a href="20211030_001.jpg" data-lightbox="abc"><img src="20211030_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_002.jpg" data-lightbox="abc"><img src="20211030_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211030_003.jpg" data-lightbox="abc"><img src="20211030_003.jpg" alt="サンプル画像" width="900" /></a>
+<br><br>
+<p>今月の市の広報誌にこんなん出てました。写真は昨年の我々です。by 半澤</p>
 <a href="20211030_004.jpg" data-lightbox="abc"><img src="20211030_004.jpg" alt="サンプル画像" width="900" /></a>
+<br>
 <p>パンフレット</p>
 <a href="20211030_005.jpg" data-lightbox="abc"><img src="20211030_005.jpg" alt="サンプル画像" width="900" /></a>
 
