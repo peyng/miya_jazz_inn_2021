@@ -115,6 +115,8 @@ a.p:hover span {
 <p>パンフレット</p>
 <a href="20211030_005.jpg" data-lightbox="abc"><img src="20211030_005.jpg" alt="サンプル画像" width="900" /></a>
 
+<h1><span class="yellow"><marquee behavior="left">!!! 2021年10月31日_2日目は女性ボーカルバンドのギター担当でした！</marquee></span></h1>	
+<a href="20211031_001.JPG" data-lightbox="abc"><img src="20211031_001.JPG" alt="サンプル画像" width="900" /></a>	
        
        
 <p>&#160;</p><p>&#160;</p>
